@@ -3,6 +3,7 @@ https://youtu.be/7mZ08CRm0IA
 YouTubeアドレス
 
 ![123](https://user-images.githubusercontent.com/55978194/98230082-16a2e480-1f9e-11eb-8ecf-90f769536340.gif)
+
 (下にある大会写真とは違う大会です。)
 ![KA](https://user-images.githubusercontent.com/55978194/98232893-92eaf700-1fa1-11eb-8ff5-b340f1de9d7c.jpg)
 
