@@ -1,8 +1,6 @@
 https://youtu.be/1ElgyAAYoH4  
 シューティングゲームのYouTubeアドレス
 
-Project name : 自動運転模型自動車
-=============
 ![1](https://user-images.githubusercontent.com/55978194/98229051-c5462580-1f9c-11eb-8607-17c1b9019367.png)
 
 Project information
