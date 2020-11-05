@@ -1,5 +1,5 @@
 
-https://youtu.be/7mZ08CRm0IA
+# https://youtu.be/7mZ08CRm0IA
 YouTubeアドレス
 
 ![123](https://user-images.githubusercontent.com/55978194/98230082-16a2e480-1f9e-11eb-8ecf-90f769536340.gif)
@@ -14,6 +14,6 @@ YouTubeアドレス
 ![6](https://user-images.githubusercontent.com/55978194/98232565-25d76180-1fa1-11eb-9878-6d4c2373539a.png)
 ![7](https://user-images.githubusercontent.com/55978194/98232568-25d76180-1fa1-11eb-9737-c48ca6104fa0.png)
 
-自動走行技術映像
+自動運転技術映像
 https://youtu.be/LP_2BtZ9CH0
 ![2](https://user-images.githubusercontent.com/55978194/84866198-567f3300-b0b4-11ea-80e7-5554df0d0e06.png)
