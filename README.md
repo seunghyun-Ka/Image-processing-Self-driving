@@ -4,10 +4,9 @@ YouTubeアドレス
 
 ![123](https://user-images.githubusercontent.com/55978194/98230082-16a2e480-1f9e-11eb-8ecf-90f769536340.gif)
 
-![1](https://user-images.githubusercontent.com/55978194/98229051-c5462580-1f9c-11eb-8607-17c1b9019367.png)
-![2](https://user-images.githubusercontent.com/55978194/98229519-59b08800-1f9d-11eb-9c11-043d6c2ebed8.png)
-
-![4](https://user-images.githubusercontent.com/55978194/98231039-3e467c80-1f9f-11eb-9e3e-fbc891974fc1.png)
+![1](https://user-images.githubusercontent.com/55978194/98232208-ba8d8f80-1fa0-11eb-91ba-bfeb70d131b7.png)
+![2](https://user-images.githubusercontent.com/55978194/98232214-bbbebc80-1fa0-11eb-80a0-dbb559c50d52.png)
+![3](https://user-images.githubusercontent.com/55978194/98232218-bc575300-1fa0-11eb-84ed-f52cc450210b.png)
 
 ![5](https://user-images.githubusercontent.com/55978194/98231042-3edf1300-1f9f-11eb-8fef-e04f135a4e5c.png)
 
