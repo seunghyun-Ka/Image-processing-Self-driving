@@ -7,13 +7,7 @@ YouTubeアドレス
 ![1](https://user-images.githubusercontent.com/55978194/98229051-c5462580-1f9c-11eb-8607-17c1b9019367.png)
 ![2](https://user-images.githubusercontent.com/55978194/98229519-59b08800-1f9d-11eb-9c11-043d6c2ebed8.png)
 
-Project information
-=============
-## Requirement
-1. PyGame
-2. anaconda
-3. tensorflow
-4. numpy
+![4](https://user-images.githubusercontent.com/55978194/98231039-3e467c80-1f9f-11eb-9e3e-fbc891974fc1.png)
 
 Environment
 =============
